@@ -2,6 +2,7 @@
     Create a new repository on GitHub. You can also add a gitignore file, a readme and a licence if you want
     Open Git Bash
     Change the current working directory to your local project.
+    pwd
     Initialize the local directory as a Git repository.
     git init
     
